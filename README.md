@@ -1,0 +1,2 @@
+# Fever diary
+Generic static diary application. No patient data is committed or served. Data is held in browser localStorage; a URL fragment or JSON import can seed a log. No authentication or cross-device sync; fragments are unencrypted and should only be shared privately. Export JSON regularly. No clinical or dosage guidance. No server requests from app JS. GitHub Pages main root.
